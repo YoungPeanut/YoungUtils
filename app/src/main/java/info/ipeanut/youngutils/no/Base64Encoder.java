@@ -1,4 +1,4 @@
-package info.ipeanut.youngutils.utils;
+package info.ipeanut.youngutils.no;
 
 import java.io.IOException;
 import java.io.OutputStream;

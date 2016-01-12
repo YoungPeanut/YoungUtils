@@ -13,7 +13,7 @@
  * GNU General Public License for more details.
  */
 
-package info.ipeanut.youngutils.utils;
+package info.ipeanut.youngutils.no;
 
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.Animation;

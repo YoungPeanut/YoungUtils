@@ -13,7 +13,9 @@
  * GNU General Public License for more details.
  */
 
-package info.ipeanut.youngutils.utils;
+package info.ipeanut.youngutils.no;
+
+import android.os.Environment;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -21,8 +23,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
-
-import android.os.Environment;
 
 /**
  * Utilities for I/O reading and writing.

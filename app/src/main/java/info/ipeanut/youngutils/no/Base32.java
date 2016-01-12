@@ -18,7 +18,7 @@
  * limitations under the License.
  */
 
-package info.ipeanut.youngutils.utils;
+package info.ipeanut.youngutils.no;
 
 import java.io.UnsupportedEncodingException;
 
